@@ -1,8 +1,8 @@
 package org.pac;
 
-public class Project {
+public class sample {
 	public static void main(String[] args) {
-		System.out.println("test1");
+		System.out.println("done");
 	}
 
 }
